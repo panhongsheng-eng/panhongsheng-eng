@@ -1,10 +1,9 @@
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=panhongsheng-eng&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=panhongsheng-eng&theme=radical">
 </p>
 
-<p><h4 color="#FF69B4">个人简介:HUAWEI Developer OpenHarmony开源贡献者  语言：C、C#、C++、python、Java、PHP、Go、HTML、CSS、JavaScript</h4> </p>
+
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -43,6 +42,10 @@
 
 
 
+<p><h4>个人简介:HUAWEI Developer OpenHarmony开源贡献者</h4> </p>
+
+
+
 <p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
   <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" alt="%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" /></a>
   <a href="https://juejin.cn/user/2040341402229751/"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金" /></a>
@@ -52,18 +55,7 @@
 <a href="https://github.com/panhongsheng-eng/"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" /></a>
 <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
 </p>
-<p align="center">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
- </p>
+
 
 
 
