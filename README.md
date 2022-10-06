@@ -1,4 +1,4 @@
-<p align = "center"><h2>欢迎来到我的GitHub主页👏👏👏👏👏👏!</h2> <img align="left" alt="Coding" width="45%" src="https://ts1.cn.mm.bing.net/th/id/R-C.6e3eb4d565956cc50132e22b9aaeb5fc?rik=65EFmeJ2qbXI4A&riu=http%3a%2f%2fcdn4.sgliulian.com%2fwp-content%2fuploads%2f2018%2f03%2f1.3.gif&ehk=u8c9mmH2KxgdgexsiaedSsQITXcLJ8UMj5l9CKVYwno%3d&risl=&pid=ImgRaw&r=0"></p>
+<p align = "center"><h2>欢迎来到我的GitHub主页👏👏👏👏👏👏!</h2> <img align="left" alt="Coding" width="10%" src="https://ts1.cn.mm.bing.net/th/id/R-C.6e3eb4d565956cc50132e22b9aaeb5fc?rik=65EFmeJ2qbXI4A&riu=http%3a%2f%2fcdn4.sgliulian.com%2fwp-content%2fuploads%2f2018%2f03%2f1.3.gif&ehk=u8c9mmH2KxgdgexsiaedSsQITXcLJ8UMj5l9CKVYwno%3d&risl=&pid=ImgRaw&r=0"></p>
  </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=panhongsheng-eng&show_icons=true&theme=tokyonight&line_height=27">
