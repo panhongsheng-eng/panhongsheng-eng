@@ -41,7 +41,7 @@
 <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
 </p>
 <p>
-<img align="right" alt="Coding" width="50%" src="https://ts1.cn.mm.bing.net/th/id/R-C.1caab52a20041dbcc02974c5b3a8e238?rik=VNgtDlCB0yK0KQ&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fzy72f6kDSFyhy%2fgiphy.gif&ehk=5ARj8LZlAHoqbZ1Q%2fBVyQJECbJAxq0CSJgv3cX8qu2g%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="Coding" width="50%" src="![R-C](https://user-images.githubusercontent.com/79436937/194375784-69563957-e4a7-4c2d-8715-89d8db121fab.gif)">
 <!-- <img align="left" alt="Coding" width="50%" src="https://media1.giphy.com/media/l2Jhqg7lUKDrqZK4U/source.gif"></p> -->
 
 
