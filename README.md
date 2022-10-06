@@ -57,12 +57,8 @@
 <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=panhongsheng-eng&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=panhongsheng-eng&repo=convoychat" />
-</a>
+<img align="right" alt="Coding" width="400" src="https://ts1.cn.mm.bing.net/th/id/R-C.3f23d650c4d9edfd0bf7c4aaa9e720bb?rik=QzulvW%2b2kg7MSA&riu=http%3a%2f%2fn1.itc.cn%2fimg8%2fwb%2frecom%2f2016%2f11%2f13%2f147897566298892879.GIF&ehk=Z%2bqrqM2TeNj3u6PBvm3Sqn187UB3s27f3wqjv65qYUA%3d&risl=&pid=ImgRaw&r=0">
+
 
 
 
