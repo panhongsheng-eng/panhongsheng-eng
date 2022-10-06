@@ -41,8 +41,8 @@
 <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
 </p>
 <p>
-<img align="right" width="50%" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2FS9GW8%2FbtquvNSIMio%2FJ8JehxJMYToh7C9wOXRKHK%2Fimg.gif">
-<img align="left" alt="Coding" width="50%" src="https://media1.giphy.com/media/l2Jhqg7lUKDrqZK4U/source.gif"></p>
+<img align="right" width="45%" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2FS9GW8%2FbtquvNSIMio%2FJ8JehxJMYToh7C9wOXRKHK%2Fimg.gif">
+<img align="left" alt="Coding" width="45%" src="https://media1.giphy.com/media/l2Jhqg7lUKDrqZK4U/source.gif"></p>
 
 
 
