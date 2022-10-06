@@ -2,7 +2,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=panhongsheng-eng&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=panhongsheng-eng&theme=radical">
 </p>
-
+<h3 align = "center">个人简介:HUAWEI Developer OpenHarmony开源贡献者 51CTO社区头条作者 兴趣：人工智能、算法、芯片<br>偶像：任正非<br>Company:HUAWEI</h3>
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+
 <p align="center">
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
@@ -42,7 +43,7 @@
 
 
 
-<p><h4>个人简介:HUAWEI Developer OpenHarmony开源贡献者</h4> </p>
+
 
 
 
