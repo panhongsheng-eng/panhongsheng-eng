@@ -1,10 +1,10 @@
-<p><h4>个人简介:HUAWEI Developer OpenHarmony开源贡献者  语言：C、C#、C++、python、Java、PHP、Go、HTML、CSS、JavaScript</h4> </p>
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=panhongsheng-eng&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=panhongsheng-eng&theme=radical">
 </p>
 
-
+<p><h4 color="#FF69B4">个人简介:HUAWEI Developer OpenHarmony开源贡献者  语言：C、C#、C++、python、Java、PHP、Go、HTML、CSS、JavaScript</h4> </p>
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
