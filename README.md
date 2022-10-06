@@ -3,7 +3,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=panhongsheng-eng&theme=radical">
 </p>
 <h3 align = "center">个人简介:HUAWEI Developer OpenHarmony开源贡献者 51CTO社区头条作者 兴趣：人工智能、算法、芯片<br>偶像：任正非<br>Company:HUAWEI</h3>
-
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -15,12 +14,8 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-
 <p align="center">
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-
-
-
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
@@ -30,23 +25,12 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
-
- 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=panhongsheng-eng&theme=redical">
 </p>
-
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=panhongsheng-eng&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
-
-
-
-
-
-
-
-
 <p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
   <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" alt="%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" /></a>
   <a href="https://juejin.cn/user/2040341402229751/"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue.svg" alt="掘金" /></a>
@@ -56,8 +40,10 @@
 <a href="https://github.com/panhongsheng-eng/"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" /></a>
 <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
 </p>
-
-<img align="right" alt="Coding" width="400" src="https://ts1.cn.mm.bing.net/th/id/R-C.3f23d650c4d9edfd0bf7c4aaa9e720bb?rik=QzulvW%2b2kg7MSA&riu=http%3a%2f%2fn1.itc.cn%2fimg8%2fwb%2frecom%2f2016%2f11%2f13%2f147897566298892879.GIF&ehk=Z%2bqrqM2TeNj3u6PBvm3Sqn187UB3s27f3wqjv65qYUA%3d&risl=&pid=ImgRaw&r=0">
+<p>
+<img align="right" alt="Coding" width="400" src="https://ts1.cn.mm.bing.net/th/id/R-C.67114f7faf1e954213921be7aed62daa?rik=fgYKYGw2Z70%2fdQ&riu=http%3a%2f%2fphotocdn.sohu.com%2f20160128%2fmp56971153_1453962881354_2.gif&ehk=ksCAJhA8OZPhTvz85iGQfWESb6BEhFM6y49k%2bPEfdd0%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/harmonyos-3/img/function/function-entertainment@2x.webp">
+  </p>
 
 
 
