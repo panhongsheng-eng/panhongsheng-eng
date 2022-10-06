@@ -41,8 +41,8 @@
 <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
 </p>
 <p>
-<img align="right" alt="Coding" width="400" src="https://ts1.cn.mm.bing.net/th/id/R-C.67114f7faf1e954213921be7aed62daa?rik=fgYKYGw2Z70%2fdQ&riu=http%3a%2f%2fphotocdn.sohu.com%2f20160128%2fmp56971153_1453962881354_2.gif&ehk=ksCAJhA8OZPhTvz85iGQfWESb6BEhFM6y49k%2bPEfdd0%3d&risl=&pid=ImgRaw&r=0">
-<img align="left" alt="Coding" width="400" src="https://media1.giphy.com/media/l2Jhqg7lUKDrqZK4U/source.gif">
+<img align="right" alt="Coding" width="50%" src="https://ts1.cn.mm.bing.net/th/id/R-C.67114f7faf1e954213921be7aed62daa?rik=fgYKYGw2Z70%2fdQ&riu=http%3a%2f%2fphotocdn.sohu.com%2f20160128%2fmp56971153_1453962881354_2.gif&ehk=ksCAJhA8OZPhTvz85iGQfWESb6BEhFM6y49k%2bPEfdd0%3d&risl=&pid=ImgRaw&r=0">
+<img align="left" alt="Coding" width="50%" src="https://media1.giphy.com/media/l2Jhqg7lUKDrqZK4U/source.gif">
 
 
 
