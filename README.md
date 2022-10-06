@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=panhongsheng-eng&theme=redical">
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=panhongsheng-eng&theme=tokyo-night)](https://github.com/panhongsheng-eng/github-readme-activity-graph)
 </p>
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=panhongsheng-eng&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
