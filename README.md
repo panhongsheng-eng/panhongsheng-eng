@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋👋👋👋👋👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+</br>
 <p align = "center"> <img align="right" alt="Coding" width="10%" src="https://ts1.cn.mm.bing.net/th/id/R-C.6e3eb4d565956cc50132e22b9aaeb5fc?rik=65EFmeJ2qbXI4A&riu=http%3a%2f%2fcdn4.sgliulian.com%2fwp-content%2fuploads%2f2018%2f03%2f1.3.gif&ehk=u8c9mmH2KxgdgexsiaedSsQITXcLJ8UMj5l9CKVYwno%3d&risl=&pid=ImgRaw&r=0">
 </p>
 
