@@ -1,6 +1,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=panhongsheng-eng&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=panhongsheng&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=panhongsheng-eng&theme=radical">
 </p>
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -52,7 +52,7 @@
 <a href="https://github.com/panhongsheng-eng/"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" /></a>
 <a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1-blue" alt="wechat-%E5%BE%AE%E4%BF%A1-blue" /></a>
 </p>
-[![HUAWEI-Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=panhongsheng-eng)](https://github.com/anuraghazra/github-readme-stats)
+m/anuraghazra/github-readme-stats)
 
 
 
