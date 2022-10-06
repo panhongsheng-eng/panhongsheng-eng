@@ -2,7 +2,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=panhongsheng-eng&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=panhongsheng-eng&theme=radical">
 </p>
-<P>[![trophy](https://github-profile-trophy.vercel.app/?username=panhongsheng-eng)]</p>
+<p>[![trophy](https://github-profile-trophy.vercel.app/?username=panhongsheng-eng)]</p>
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
