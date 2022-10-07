@@ -3,7 +3,17 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F731EA&center=true&vCenter=true&width=435&lines=WeIcome+to+my+home+page%EF%BC%8C;+I+hope+it+can+help+you;Let's+become+stronger+and+stronger!">
   </a>
  <h3 align = "center">个人简介:HUAWEI Developer OpenHarmony开源贡献者 51CTO社区头条作者 兴趣：人工智能、算法、芯片<br>偶像：任正非<br>Company:HUAWEI</h3>
-  <h4>Hi,I'm PanHongsheng</h4>
+ <p align="center">
+  Hi, I'm Geekswg
+  <br>
+  🔬I am a college student studying in Shandong Engineering Vocational and Technical University
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 Currently preparing for the postgraduate entrance examination！
+  <br>
+  
+</p>
 </h1>
 </br>
 <p >
