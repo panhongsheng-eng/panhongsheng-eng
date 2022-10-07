@@ -9,7 +9,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=panhongsheng-eng&theme=radical">
 </p>
 <h3 align = "center">个人简介:HUAWEI Developer OpenHarmony开源贡献者 51CTO社区头条作者 兴趣：人工智能、算法、芯片<br>偶像：任正非<br>Company:HUAWEI</h3>
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/JUSFwsRcQPmsJfjEsC/giphy.gif?cid=ecf05e47qbhvi0cgni5j1ogrkw99g6lsn1dppnj1s6frxiry&rid=giphy.gif&ct=s" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
