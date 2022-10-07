@@ -4,7 +4,7 @@
   </a>
  <h3 align = "center">个人简介:HUAWEI Developer OpenHarmony开源贡献者 51CTO社区头条作者 兴趣：人工智能、算法、芯片<br>偶像：任正非<br>Company:HUAWEI</h3>
  <p align="center">
-  Hi, I'm Geekswg
+  Hi, I'm PanHongsheng
   <br>
   🔬I am a college student studying in Shandong Engineering Vocational and Technical University
   <br>
