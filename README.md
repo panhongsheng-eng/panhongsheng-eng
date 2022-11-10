@@ -75,12 +75,4 @@
 <img align="left" alt="Coding" width="45%" src="https://media1.giphy.com/media/l2Jhqg7lUKDrqZK4U/source.gif"></p>
 
 
-1111111111
-1111111111
-1111
-11111
-111111
-11111
 
-
-11111111111
