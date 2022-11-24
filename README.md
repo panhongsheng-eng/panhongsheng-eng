@@ -63,8 +63,8 @@
 </p>
 <p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
   <a href="https://ost.51cto.com/person/posts/15144284"><img src="https://img.shields.io/badge/51CTO-HUAWEI-blue" /></a>
-  <a href="https://pdai.tech/"><img src=""  /></a>
-  <a href="https://stibel.icu/"><img src=""/></a>
+  <a href=""><img src="https://img.shields.io/badge/JAVA%E5%85%A8%E6%A0%88%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB-StudyJava-yellowgreen"  /></a>
+  <a href=""><img src="https://img.shields.io/badge/JAVA%E5%85%A8%E6%A0%88%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB-StudyJava-yellowgreen"/></a>
 <a href="#####"><img src="https://img.shields.io/badge/QQ-2069192151-brightgreen" /></a>
   <a href="https://bbs.csdn.net/forums/moyu"><img src="https://img.shields.io/badge/CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" alt="CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" /></a>
 <a href="https://github.com/panhongsheng-eng/"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" /></a>
