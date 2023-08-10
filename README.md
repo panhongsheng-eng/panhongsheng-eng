@@ -1,3 +1,8 @@
+<div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F731EA&center=true&vCenter=true&width=435&lines=WeIcome+to+my+home+page%EF%BC%8C;+I+hope+it+can+help+you;Let's+become+stronger+and+stronger!">
