@@ -75,7 +75,7 @@
 <div align="center">
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
-<div align="center">
+<!-- <div align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小潘同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
@@ -154,7 +154,7 @@
 <p>
 <img align="right" width="45%" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Fblog.kakaocdn.net%2Fdn%2FS9GW8%2FbtquvNSIMio%2FJ8JehxJMYToh7C9wOXRKHK%2Fimg.gif">
 <img align="left" alt="Coding" width="45%" src="https://media1.giphy.com/media/l2Jhqg7lUKDrqZK4U/source.gif"></p>
-
+ -->
 
 
 
